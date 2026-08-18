@@ -1,2 +1,0 @@
-# Longitudinal_Biomarkers_ADNI
-Longitudinal_Biomarkers_and_ADNI_Cohort_ML
